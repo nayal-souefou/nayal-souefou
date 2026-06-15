@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Nayal Souefou 👋
 
-<!--
-**nayal-souefou/nayal-souefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Étudiant en Mastère Intelligence Artificielle
+**NEXA Digital School Lyon** | Alternance dès septembre 2026
 
-Here are some ideas to get you started:
+## 🔧 Compétences techniques
+- **SQL Avancé** — JOINs, sous-requêtes, CTEs, fonctions de fenêtre — MySQL Workbench
+- **Python** — Pandas, Matplotlib — analyses sur données réelles
+- **Git & GitHub** — versioning de projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mes projets
+- 🛒 [Analyse ventes supermarché](https://github.com/nayal-souefou/analyse-ventes-supermarche) — Python + Pandas + Matplotlib
+- 🚢 [Analyse Titanic](https://github.com/nayal-souefou/analyse-de-donn-es-Titanic) — Python + SQL
+- 🗄️ [Analyse SQL ventes](https://github.com/nayal-souefou/analyse-ventes-sql) — SQL avancé
+- 👥 [Analyse SQL employés](https://github.com/nayal-souefou/analyse-employes-sql) — SQL avancé
+
+## 📫 Me contacter
+- 💼 [LinkedIn](https://linkedin.com/in/souefou-nayal)
+- 📧 souefounayal925@gmail.com
